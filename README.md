@@ -2,6 +2,7 @@
 
 This project uses Excel to develop a comprehensive set of reports aimed at delivering insights into both sales performance and financial health for **Atliq Hardware Technologies**. By harnessing **Power Query, Power Pivot**, and **Data Modeling**, the project provides valuable metrics for decision-making.
 
+---
 
 ## Table of Contents
 
