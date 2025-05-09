@@ -123,7 +123,7 @@ Check out all the created reports attached to this repository:
 
 - ## Documentation
 
-- [Customer Performance Report](https://github.com/GayathriDollani/Sales-Finance-Dashboard/blob/main/Customer_Performance_Report.pdf?raw=true)
+- [Customer Performance Report]- [Customer Performance Report].
 - [Market Performance Report](https://github.com/GayathriDollani/Sales-Finance-Dashboard/blob/main/Market_Performance_Report.pdf?raw=true)
 - [Market Performance Report](#)
 - [P&L Statement By Market Report](#)
