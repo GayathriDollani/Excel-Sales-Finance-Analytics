@@ -121,7 +121,10 @@ These reports are essential for decision-makers to monitor financial performance
 
 Check out all the created reports attached to this repository:
 
-- [Customer Performance Report](#file:///C:/Users/gayat/Downloads/P%20&%20L%20Statement%20by%20Markets-1.pdf)
+- ## Documentation
+
+- [Customer Performance Report](https://github.com/GayathriDollani/Sales-Finance-Dashboard/blob/main/Customer_Performance_Report.pdf?raw=true)
+- [Market Performance Report](https://github.com/GayathriDollani/Sales-Finance-Dashboard/blob/main/Market_Performance_Report.pdf?raw=true)
 - [Market Performance Report](#)
 - [P&L Statement By Market Report](#)
 - [P&L Statement By Year Report](#)
